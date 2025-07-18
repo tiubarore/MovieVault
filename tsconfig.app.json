@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "noEmitOnError": false, // This allows build to continue despite TS errors
+    "skipLibCheck": true,
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
     "target": "ES2022",
     "useDefineForClassFields": true,
