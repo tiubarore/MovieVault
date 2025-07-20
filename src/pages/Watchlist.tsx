@@ -1,4 +1,5 @@
 import FilmList from "../components/FilmList";
+
 type Props = { watched: boolean };
 
 export default function Watchlist({ watched }: Props) {
@@ -7,7 +8,7 @@ export default function Watchlist({ watched }: Props) {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-4">
-            WATCHLIST
+            Watchlist
           </h1>
           <p className="text-gray-300 text-lg">I tuoi film da guardare</p>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto mt-4 rounded-full"></div>
