@@ -4,7 +4,7 @@
 
 ## 🖥️ Preview
 
-![App Screenshot](./screenshots/movievault.png)
+![App Screenshot](./screenshot/movievault.png)
 
 A responsive web application for managing your personal movie watchlist. Track movies you want to watch, mark them as watched and rate them.
 
