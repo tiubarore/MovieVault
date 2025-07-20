@@ -1,5 +1,7 @@
 # 🎬 Movie Watchlist App
 
+**🔗 Live Demo:** [[https://your-app-url.vercel.app](https://movievaultapp.vercel.app/)]
+
 A responsive web application for managing your personal movie watchlist. Track movies you want to watch, mark them as watched and rate them.
 
 ## ✨ Features
